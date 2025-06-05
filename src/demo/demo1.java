@@ -17,6 +17,6 @@ public class demo1 {
         Animal a = new Animal();
         a.bark(); 
         a.speak(); 
-     System.out.println("git pull")
+     System.out.println("git pull");
     }
 }
